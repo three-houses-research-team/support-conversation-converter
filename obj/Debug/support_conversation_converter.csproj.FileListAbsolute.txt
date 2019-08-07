@@ -1,0 +1,7 @@
+C:\Users\Raytwo\Documents\Git\support-conversation-converter\bin\Debug\support_conversation_converter.exe.config
+C:\Users\Raytwo\Documents\Git\support-conversation-converter\bin\Debug\support_conversation_converter.exe
+C:\Users\Raytwo\Documents\Git\support-conversation-converter\bin\Debug\support_conversation_converter.pdb
+C:\Users\Raytwo\Documents\Git\support-conversation-converter\obj\Debug\support_conversation_converter.csprojAssemblyReference.cache
+C:\Users\Raytwo\Documents\Git\support-conversation-converter\obj\Debug\support_conversation_converter.csproj.CoreCompileInputs.cache
+C:\Users\Raytwo\Documents\Git\support-conversation-converter\obj\Debug\support_conversation_converter.exe
+C:\Users\Raytwo\Documents\Git\support-conversation-converter\obj\Debug\support_conversation_converter.pdb

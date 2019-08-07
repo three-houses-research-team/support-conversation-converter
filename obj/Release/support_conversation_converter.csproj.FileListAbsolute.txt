@@ -1,0 +1,2 @@
+C:\Users\Raytwo\Documents\Git\support-conversation-converter\obj\Release\support_conversation_converter.csprojAssemblyReference.cache
+C:\Users\Raytwo\Documents\Git\support-conversation-converter\obj\Release\support_conversation_converter.csproj.CoreCompileInputs.cache
